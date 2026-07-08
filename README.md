@@ -1,3 +1,3 @@
 # ADVANCED-RETAIL-SALES-FORECASTING-AND-INVENTORY-OPTIMIZATION
-md#-Overview
+📌 Overview
 This project focuses on improving retail decision-making through advanced machine learning techniques for sales forecasting and inventory optimization. It aims to address common challenges such as overstocking and stockouts by accurately predicting future demand using historical sales data and external factors. The system incorporates data preprocessing, anomaly detection, and clustering techniques to enhance data quality and understanding. Advanced machine learning models are then applied to generate precise demand forecasts, which are used to determine optimal reorder points and inventory levels. The proposed approach helps retailers reduce costs, improve operational efficiency, and enhance customer satisfaction by maintaining an effective balance between supply and demand.
