@@ -16,4 +16,10 @@ This project provides an end-to-end solution for retail sales forecasting and in
 📄 CSV Upload Support for batch sales prediction and inventory optimization.
 📥 Downloadable Prediction Reports in CSV format for business analysis and decision-making.
 
+* Item 1
+* Item 2
+  * Sub-item 2a (Indent with 2 or 4 spaces)
+  * Sub-item 2b
+* Item 3
+
 
