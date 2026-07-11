@@ -3,6 +3,7 @@
 
 This project provides an end-to-end solution for retail sales forecasting and inventory optimization using machine learning techniques. It includes data preprocessing, exploratory data analysis, predictive modeling and an interactive Streamlit dashboard for sales prediction. The system also generates inventory recommendations, such as Economic Order Quantity (EOQ), Safety Stock, and Reorder Point, to support efficient retail decision-making.
 
+
 ✨ Features
 
 * 📊 Interactive Dashboard for visualizing retail sales insights.
@@ -15,5 +16,18 @@ This project provides an end-to-end solution for retail sales forecasting and in
 * 💾 Model Serialization using Joblib for easy deployment and future use.
 * 📄 CSV Upload Support for batch sales prediction and inventory optimization.
 * 📥 Downloadable Prediction Reports in CSV format for business analysis and decision-making.
+
+
+
+### 🧠 Machine Learning Model
+
+* 🤖 Evaluated multiple regression models, including **Linear Regression**, **Ridge Regression**, **Lasso Regression**, **Decision Tree Regression**, **Random Forest Regression**, and **XGBoost Random Forest (XGBRFRegressor)**.
+* 🏆 Selected **XGBRFRegressor** as the final model based on the best prediction performance.
+* 📊 Trained and evaluated the model using **R² Score** and **Mean Absolute Error (MAE)**.
+* 🎯 Used **feature importance analysis** to select the most influential features for improved prediction accuracy.
+* 💾 Saved the trained model using **Joblib** for deployment in the Streamlit web application.
+* 🔮 Generated accurate retail sales predictions and integrated them with **inventory optimization** for better business decision-making.
+
+
 
 
