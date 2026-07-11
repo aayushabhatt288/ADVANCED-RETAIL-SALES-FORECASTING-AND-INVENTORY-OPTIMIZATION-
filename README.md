@@ -5,21 +5,15 @@ This project provides an end-to-end solution for retail sales forecasting and in
 
 ✨ Features
 
-📊 Interactive Dashboard for visualizing retail sales insights.
-🔍 Data Preprocessing with missing value handling, feature engineering, and categorical encoding.
-📈 Sales Forecasting using multiple machine learning models with XGBRFRegressor as the final model.
-📉 Exploratory Data Analysis (EDA) including distribution plots, boxplots, heatmaps, and sales analysis.
-🤖 Model Comparison and Evaluation using R² score and Mean Absolute Error (MAE).
-📦 Inventory Optimization with Economic Order Quantity (EOQ), Safety Stock, and Reorder Point calculations.
-🌐 Interactive Streamlit Web Application for real-time sales prediction and inventory recommendations.
-💾 Model Serialization using Joblib for easy deployment and future use.
-📄 CSV Upload Support for batch sales prediction and inventory optimization.
-📥 Downloadable Prediction Reports in CSV format for business analysis and decision-making.
-
-* Item 1
-* Item 2
-  * Sub-item 2a (Indent with 2 or 4 spaces)
-  * Sub-item 2b
-* Item 3
+* 📊 Interactive Dashboard for visualizing retail sales insights.
+* 🔍 Data Preprocessing with missing value handling, feature engineering, and categorical encoding.
+* 📈 Sales Forecasting using multiple machine learning models with XGBRFRegressor as the final model.
+* 📉 Exploratory Data Analysis (EDA) including distribution plots, boxplots, heatmaps, and sales analysis.
+* 🤖 Model Comparison and Evaluation using R² score and Mean Absolute Error (MAE).
+* 📦 Inventory Optimization with Economic Order Quantity (EOQ), Safety Stock, and Reorder Point calculations.
+* 🌐 Interactive Streamlit Web Application for real-time sales prediction and inventory recommendations.
+* 💾 Model Serialization using Joblib for easy deployment and future use.
+* 📄 CSV Upload Support for batch sales prediction and inventory optimization.
+* 📥 Downloadable Prediction Reports in CSV format for business analysis and decision-making.
 
 
