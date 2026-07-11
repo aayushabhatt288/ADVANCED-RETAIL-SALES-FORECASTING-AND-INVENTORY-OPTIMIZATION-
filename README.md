@@ -1,5 +1,6 @@
 # ADVANCED-RETAIL-SALES-FORECASTING-AND-INVENTORY-OPTIMIZATION
----
+
+
 ### 📌 Overview
 
 This project develops a machine learning-based retail sales forecasting system that predicts future sales using historical retail data and key outlet features. It also supports inventory optimization by recommending reorder quantities, safety stock and reorder points to improve inventory management and reduce overstocking and stockouts.
@@ -20,12 +21,12 @@ This project develops a machine learning-based retail sales forecasting system t
 ---
 ## 🧠 Machine Learning Model
 
-* 🤖 Evaluated multiple regression models, including **Linear Regression**, **Ridge Regression**, **Lasso Regression**, **Decision Tree Regression**, **Random Forest Regression**, and **XGBoost Random Forest (XGBRFRegressor)**.
-* 🏆 Selected **XGBRFRegressor** as the final model based on the best prediction performance.
-* 📊 Trained and evaluated the model using **R² Score** and **Mean Absolute Error (MAE)**.
-* 🎯 Used **feature importance analysis** to select the most influential features for improved prediction accuracy.
-* 💾 Saved the trained model using **Joblib** for deployment in the Streamlit web application.
-* 🔮 Generated accurate retail sales predictions and integrated them with **inventory optimization** for better business decision-making.
+* **Algorithm:** XGBRFRegressor (XGBoost Random Forest)
+* **Input Features:** Item_MRP, Outlet_Identifier, Outlet_Size, Outlet_Type, Outlet_Age
+* **Performance Metrics:** R² Score, MAE (Mean Absolute Error)
+* **Model Selection:** Chosen as the best-performing model after benchmarking six regression algorithms
+* **Deployment:** Saved using Joblib and integrated into the Streamlit web application for real-time sales forecasting and inventory optimization.
+
 
 
 
