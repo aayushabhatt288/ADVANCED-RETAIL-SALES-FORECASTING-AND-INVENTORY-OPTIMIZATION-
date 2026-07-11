@@ -2,7 +2,7 @@
 ---
 ### 📌 Overview
 
-This project provides an end-to-end solution for retail sales forecasting and inventory optimization using machine learning techniques. It includes data preprocessing, exploratory data analysis, predictive modeling and an interactive Streamlit dashboard for sales prediction. The system also generates inventory recommendations, such as Economic Order Quantity (EOQ), Safety Stock, and Reorder Point, to support efficient retail decision-making.
+This project develops a machine learning-based retail sales forecasting system that predicts future sales using historical retail data and key outlet features. It also supports inventory optimization by recommending reorder quantities, safety stock and reorder points to improve inventory management and reduce overstocking and stockouts.
 
 ---
 ## ✨ Features
