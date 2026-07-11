@@ -30,5 +30,16 @@ This project provides an end-to-end solution for retail sales forecasting and in
 * 🔮 Generated accurate retail sales predictions and integrated them with **inventory optimization** for better business decision-making.
 
 
+Some paragraph text from your previous section.
+
+---
+# First Main Heading
+Your content goes here...
+
+---
+## Second Heading
+More content here...
+
+
 
 
