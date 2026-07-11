@@ -1,10 +1,10 @@
 # ADVANCED-RETAIL-SALES-FORECASTING-AND-INVENTORY-OPTIMIZATION
-<u> </u>
+---
 ### 📌 Overview
 
 This project provides an end-to-end solution for retail sales forecasting and inventory optimization using machine learning techniques. It includes data preprocessing, exploratory data analysis, predictive modeling and an interactive Streamlit dashboard for sales prediction. The system also generates inventory recommendations, such as Economic Order Quantity (EOQ), Safety Stock, and Reorder Point, to support efficient retail decision-making.
 
-
+---
 <u> </u>
 ### ✨ Features
 
@@ -18,7 +18,7 @@ This project provides an end-to-end solution for retail sales forecasting and in
 * 💾 **Model Serialization** using Joblib for easy deployment and future use.
 * 📄 **CSV Upload Support** for batch sales prediction and inventory optimization.
 * 📥 **Downloadable Prediction Reports** in CSV format for business analysis and decision-making.
-
+---
 <u> </u>
 ### 🧠 Machine Learning Model
 
@@ -30,9 +30,6 @@ This project provides an end-to-end solution for retail sales forecasting and in
 * 🔮 Generated accurate retail sales predictions and integrated them with **inventory optimization** for better business decision-making.
 
 
-Some paragraph text from your previous section.
-
----
 # First Main Heading
 Your content goes here...
 
